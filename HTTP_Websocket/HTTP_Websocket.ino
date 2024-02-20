@@ -25,8 +25,8 @@ Click to turn <a href="ledOff">LED OFF</a><br>
 #define LED 2   
  
 //SSID and Password of your WiFi router 
-const char* ssid = "Hot Singles in Your LAN"; 
-const char* password = "SilverQ_05!"; 
+const char* ssid = "*************"; 
+const char* password = "**************************"; 
  
 //Declare a global object variable from the ESP8266WebServer class 
 ESP8266WebServer server(80); //Server on port 80 
