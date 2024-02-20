@@ -26,8 +26,8 @@ const char* ssid = "DrinkComposer";  // Enter SSID here
 const char* password = "12345678";  //Enter Password here
 
 /* Put IP Address details */
-IPAddress local_ip(192,168,1,1);    //Define the IP Address of the Access Point
-IPAddress gateway(192,168,1,1);     //Define the Gateway address of the Access Point
+IPAddress local_ip(---,---,-,-);    //Define the IP Address of the Access Point
+IPAddress gateway(---,---,-,-);     //Define the Gateway address of the Access Point
 IPAddress subnet(255,255,255,0);    //Define the subnet mask Identity
 
 ESP8266WebServer server(80);     //Create a server object on port 80 (for SSH communication)
