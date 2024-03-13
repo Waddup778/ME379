@@ -11,7 +11,7 @@
   </header>
 
   <header>
-    <h3>Please don't copy!!!</h3>
+    <h3>Please don't copy, use this as a learning tool!</h3>
   </header>
 
   <section>
