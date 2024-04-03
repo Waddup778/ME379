@@ -16,7 +16,7 @@
 
   <section>
     <p>This is a collection of the code required for the lab section of Mechatronics or ME 379 offered by the University of Wisconsin - Milwaukee.</p>
-    <p>This code is available to be modified for educational purposes. Any major edits to the codebase should be requested, any unauthorized changes will result in revocation of commit permission.</p>
+    <p>This code is available to be modified for educational purposes.</p>
   </section>
 
   <section>
